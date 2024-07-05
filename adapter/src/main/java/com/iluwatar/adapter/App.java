@@ -58,5 +58,6 @@ public final class App {
     // use fishing boats as well
     var captain = new Captain(new FishingBoatAdapter());
     captain.row();
+    //simple comment 1
   }
 }
